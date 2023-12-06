@@ -1,3 +1,3 @@
 # Encapsulation
-# To properly learn and thoroughly understand the use of encapsulation. 
-# OOP Concept.
+ To properly learn and thoroughly understand the use of encapsulation. 
+OOP Concept.
